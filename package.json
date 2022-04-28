@@ -1,0 +1,29 @@
+{
+  "name": "human-centered-design-2122",
+  "description": "## Table of contents - [Human Centered Design](#human-centered-design)   - [Table of contents](#table-of-contents)   - [Concept](#concept)   - [Live demo](#live-demo)   - [Assignment](#assignment)     - [Ontwerpen met en voor echte mensen](#ontwerpen-met-en-voor-echte-mensen)     - [Leerdoelen](#leerdoelen)   - [Rubric](#rubric)   - [Features](#features)   - [Installation](#installation)   - [Wishlist](#wishlist)   - [License](#license)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lottekoblens/human-centered-design-2122.git"
+  },
+  "author": "Lotte Koblens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lottekoblens/human-centered-design-2122/issues"
+  },
+  "homepage": "https://github.com/lottekoblens/human-centered-design-2122#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15"
+  }
+}

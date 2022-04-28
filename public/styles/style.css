@@ -1,0 +1,111 @@
+body {
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+table {
+    width: fit-content;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    overflow-x: visible;
+    border-spacing: 0;
+}
+
+table>caption {
+    padding: 0.5em;
+}
+
+tbody {
+    white-space: nowrap;
+}
+
+th,
+td {
+    padding: 5px 10px;
+    /* border-top-width: 0; */
+    border-left-width: 0;
+}
+
+th {
+    position: sticky;
+    top: 0;
+    vertical-align: bottom;
+}
+
+th:last-child,
+td:last-child {
+    border-right-width: 0;
+}
+
+tr:last-child td {
+    border-bottom-width: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+ul li {
+    border: 0.2em solid white;
+    list-style: none;
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+
+
+ul li:focus-within {
+    background: rgb(55, 114, 207);
+}
+
+a:focus {
+    outline: none;
+    border: none;
+}
+
+#maand-nav {
+    margin: 3em 0;
+}
+
+#maand-nav h2 {
+    margin-bottom: 2em;
+}
+
+#maand {
+    padding: 1em;
+    border: 0.2em solid white;
+    background: orange;
+    color: black;
+}
+
+#maand:focus {
+    background: rgb(55, 114, 207);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+}
+
+form>button {
+    padding: 1em;
+    border: 0.2em solid white;
+    background: orange;
+    color: black;
+    font-size: 1em;
+}
+
+form>textarea {
+    font-size: 1em;
+}
