@@ -3,6 +3,7 @@ body {
     color: white;
     text-align: center;
     font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 table,
@@ -60,6 +61,11 @@ ul li {
     list-style: none;
     margin-bottom: 2em;
     padding: 1em;
+    background: rgb(131, 201, 126);
+}
+
+ul li a {
+    color: black;
 }
 
 
@@ -108,4 +114,12 @@ form>button {
 
 form>textarea {
     font-size: 1em;
+    background: rgb(131, 201, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.5em;
+}
+
+::placeholder {
+    color: rgb(69, 67, 67);
+    font-family: Arial, Helvetica, sans-serif;
 }
