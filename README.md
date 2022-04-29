@@ -36,7 +36,8 @@ De eerste test was eigenlijk grotendeels een kennismaking met Larissa. Ik ben ve
 - Ze wilt makkelijk kunnen navigeren
 - Ze houdt tevens zelf haar voortgang van de trainingen bij in haar notities. Dit is een leuk onderdeel wat ik zou kunnen verwerken in het schema, zodat zij per training overzichtelijk kan bijhouden wat ze heeft gedaan.
 
-*Aanpak na test 1*
+**Aanpak na test 1**
+
 Ik ga nu aan de slag met het maken van het trainingsschema. Ik laat Larissa beginnen op de maand dat het is, dus april. Hierbij ga ik haar de keuze geven om naar de vorige of volgende maand te navigeren of om naar een dag te gaan navigeren. Als ze naar een dag gaat, ziet ze daar wat voor training ze heeft en kan ze notities van die training toevoegen zodat deze notities bij die dag opgeslagen blijven.
 
 ## Assignment
