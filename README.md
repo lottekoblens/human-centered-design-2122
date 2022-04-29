@@ -5,6 +5,7 @@
   - [Table of contents](#table-of-contents)
   - [Concept](#concept)
   - [Live demo](#live-demo)
+  - [Test 1](#test-1)
   - [Assignment](#assignment)
     - [Ontwerpen met en voor echte mensen](#ontwerpen-met-en-voor-echte-mensen)
     - [Leerdoelen](#leerdoelen)
@@ -21,6 +22,22 @@ Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Lar
 ## Live demo
 
 [Live demo](https://human-centered-design-training.herokuapp.com/)
+## Test 1
+
+De eerste test was eigenlijk grotendeels een kennismaking met Larissa. Ik ben veel over haar te weten gekomen en bepaalde voorkeuren van haar wat ze fijn zou vinden voor het trainingsschema zijn goed aan het licht gekomen.
+
+- Braille bord (leesregel) gebruikt ze bijna nooit
+- Ze wil niet al 3 maanden verder hebben dat gepland staat wanneer ze krachttraining heeft e.d. Ze voelt zelf aan wat haar lichaam nodig heeft en daar gaat ze dan ook op trainen.
+- Ze wil snel de info die ze nodig heeft kunnen vinden (ook tijdens een training wat er in die training gedaan moet worden)
+- Ze gebruikt graag de tab-toets
+- Ze vindt het fijn om te weten wanneer ze vrij is
+- Screen reader in het Nederlands
+- H-toets om te kijken hoeveel en welke headers er zijn, i-toets voor de lijsten
+- Ze wilt makkelijk kunnen navigeren
+- Ze houdt tevens zelf haar voortgang van de trainingen bij in haar notities. Dit is een leuk onderdeel wat ik zou kunnen verwerken in het schema, zodat zij per training overzichtelijk kan bijhouden wat ze heeft gedaan.
+
+*Aanpak na test 1*
+Ik ga nu aan de slag met het maken van het trainingsschema. Ik laat Larissa beginnen op de maand dat het is, dus april. Hierbij ga ik haar de keuze geven om naar de vorige of volgende maand te navigeren of om naar een dag te gaan navigeren. Als ze naar een dag gaat, ziet ze daar wat voor training ze heeft en kan ze notities van die training toevoegen zodat deze notities bij die dag opgeslagen blijven.
 
 ## Assignment
 
