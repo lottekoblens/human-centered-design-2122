@@ -60,6 +60,18 @@ De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen
 
 ## Installation
 
+1. Clone this repository by putting this in your terminal:
+
+`git clone https://github.com/lottekoblens/human-centered-design-2122.git`
+
+2. Install the project by putting in the following in the terminal:
+
+`npm install`
+
+3. Run the project by putting this in the terminal:
+
+`npm start`
+
 ## Wishlist
 
 ## License
