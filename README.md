@@ -20,6 +20,8 @@ Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Lar
 
 ## Live demo
 
+[Live demo](https://human-centered-design-training.herokuapp.com/)
+
 ## Assignment
 
 ### Ontwerpen met en voor echte mensen
