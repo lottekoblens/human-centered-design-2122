@@ -6,6 +6,7 @@
   - [Concept](#concept)
   - [Live demo](#live-demo)
   - [Test 1](#test-1)
+  - [Test 2](#test-2)
   - [Assignment](#assignment)
     - [Ontwerpen met en voor echte mensen](#ontwerpen-met-en-voor-echte-mensen)
     - [Leerdoelen](#leerdoelen)
@@ -22,6 +23,7 @@ Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Lar
 ## Live demo
 
 [Live demo](https://human-centered-design-training.herokuapp.com/)
+
 ## Test 1
 
 De eerste test was eigenlijk grotendeels een kennismaking met Larissa. Ik ben veel over haar te weten gekomen en bepaalde voorkeuren van haar wat ze fijn zou vinden voor het trainingsschema zijn goed aan het licht gekomen.
@@ -39,6 +41,18 @@ De eerste test was eigenlijk grotendeels een kennismaking met Larissa. Ik ben ve
 **Aanpak na test 1**
 
 Ik ga nu aan de slag met het maken van het trainingsschema. Ik laat Larissa beginnen op de maand dat het is, dus april. Hierbij ga ik haar de keuze geven om naar de vorige of volgende maand te navigeren of om naar een dag te gaan navigeren. Als ze naar een dag gaat, ziet ze daar wat voor training ze heeft en kan ze notities van die training toevoegen zodat deze notities bij die dag opgeslagen blijven.
+
+## Test 2
+
+Test twee is goed gegaan. Ik heb Larissa gewoon door het schema heen laten gaan zonder dat ik er iets bij vertelde. Ik heb haar het schema zelf laten ontdekken, zoals ze dat normaal ook zou doen met een website. Wat heel erg fijn was, is dat Larissa eigenlijk uit zichzelf volledig hardop denkt. Hierdoor krijg je goede feedback terug en weet je wat in haar gedachten om gaat bij het gebruik van het schema. De volgende punten kan ik nog verbeteren:
+
+- Voeg een zoekfunctie toe om naar een specifieke dag te gaan: Een maand invullen en dan een week kiezen
+- Je kan eventueel een optie toevoegen om een maand/jaar te kiezen
+- Als je van een dag terug gaat naar het maandoverzicht dat je focus dan nog op de dag zit waar je net bent geweest
+- Vandaag en morgen zijn eigenlijk het belangrijkst. Wat ze tijdens een training moet doen, bekijkt ze alleen op de dag zelf.
+- Voor de volgende dag bekijkt ze waar en hoe laat ze ergens moet zijn. (dus ik kan haar bijvoorbeeld laten beginnen op de dag van vandaag)
+- Op de dag pagina kloppen de headings nog niet helemaal
+- Bij textarea nog een label toevoegen
 
 ## Assignment
 
