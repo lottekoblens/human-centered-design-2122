@@ -25,6 +25,8 @@
 
 Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Larissa is een topsportster in het baanwielrenner en Larissa ziet nog maar 1%. Daarom is het trainingsschema zo in elkaar gezet dat je er met een screen reader goed doorheen kan navigeren. 
 
+<img src="/images/concept.png" width="650">
+
 ## Live demo
 
 [Live demo](https://human-centered-design-training.herokuapp.com/)
