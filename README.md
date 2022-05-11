@@ -8,11 +8,13 @@
   - [Test 1](#test-1)
   - [Test 2](#test-2)
     - [Aanpak na test 2](#aanpak-na-test-2)
+  - [Test 3](#test-3)
   - [Design Principles](#design-principles)
     - [Study situation](#study-situation)
     - [Ignore conventions](#ignore-conventions)
     - [Prioritise identity](#prioritise-identity)
     - [Add nonsense](#add-nonsense)
+  - [Reflectie](#reflectie)
   - [Assignment](#assignment)
     - [Ontwerpen met en voor echte mensen](#ontwerpen-met-en-voor-echte-mensen)
     - [Leerdoelen](#leerdoelen)
@@ -69,6 +71,9 @@ En verder geef ik haar vanuit daar de optie om naar een andere dag te zoeken of 
 
 Ook ben ik van plan om nu nog nonsense toe te gaan voegen. Ik wil daarom wat woorden toevoegen die grappig worden uitgesproken door de screen reader. Verder ben ik van plan om nog goed te gaan kijken naar de design principles en dat toe te passen in het prototype.
 
+## Test 3
+
+Dit was de laatste test die ik kon doen. 
 
 ## Design Principles
 
@@ -97,6 +102,8 @@ Wat voor persoon is Larissa? (Zodat je de interface daarop kunt aanpassen)
 
 - Als Larissa een bespreking heeft met haar coach, haar vertellen dat ze deze niet mag skippen en hierbij screen reader soort van laten lachen.
 - Woorden toevoegen die de screen reader grappig voorleest.
+
+## Reflectie
 
 ## Assignment
 
