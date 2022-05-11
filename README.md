@@ -14,6 +14,7 @@
     - [Ignore conventions](#ignore-conventions)
     - [Prioritise identity](#prioritise-identity)
     - [Add nonsense](#add-nonsense)
+  - [User scenario](#user-scenario)
   - [Reflectie](#reflectie)
   - [Assignment](#assignment)
     - [Ontwerpen met en voor echte mensen](#ontwerpen-met-en-voor-echte-mensen)
@@ -26,7 +27,7 @@
 
 ## Concept
 
-Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Larissa is een topsportster in het baanwielrenner en Larissa ziet nog maar 1%. Daarom is het trainingsschema zo in elkaar gezet dat je er met een screen reader goed doorheen kan navigeren. 
+Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Larissa is een topsportster in het baanwielrenner en Larissa ziet nog maar 1%. In haar huidige trainingsschema kan Larissa de informatie die ze nodig heeft niet vinden, omdat het heel ingewikkeld in elkaar zit en omdat er kleuren worden gebruikt voor bepaalde dingen die Larissa natuurlijk niet kan zien. Dit ben ik gaan verbeteren. Ik ben het trainingsschema goed bruikbaar gaan maken voor Larissa, door ervoor te zorgen dat zij met de screen reader en gemakkelijk doorheen kan navigeren. Hiervoor maak ik bijvoorbeeld gebruik van tabindex en zorg ik ervoor dat Larissa als eerst de planning van vandaag zien aangezien dat hetgeen is waar ze het trainingsschema het meest voor gebruikt.
 
 <img src="/public/images/concept.png" width="650">
 
@@ -102,6 +103,22 @@ Wat voor persoon is Larissa? (Zodat je de interface daarop kunt aanpassen)
 
 - Als Larissa een bespreking heeft met haar coach, haar vertellen dat ze deze niet mag skippen en hierbij screen reader soort van laten lachen.
 - Woorden toevoegen die de screen reader grappig voorleest.
+
+## User scenario
+
+User scenarios describe in detail what users do on a website and specifically why they do it. A user scenario is like a short story of a person who visits a website witha certain motivation and a specific goal in mind. A good user scenario includes all information that is relevant to the process the user undergoes in order to reach his or her goal, and nothing more.
+
+- Wie is Larissa? 
+Larissa is een energiek en redelijk chaotisch persoon. Ze ziet nog maar 1%. Ondanks dat ze zo weinig ziet, is ze erg zelfstandig. Tevens is ze een topsportster en doet ze aan baanwielrennen, waarmee ze ook een gouden medaille op de Olympische Spelen heeft gewonnen.
+
+- Wat wil Larissa bereiken op mijn site? 
+Larissa wil haar trainingsschema goed kunnen inzien. Hierbij is het belangrijk dat ze de planning van vandaag heel snel ziet, omdat dat vaak is wat ze op gaat zoeken. Wil ze toch van een andere dag de planning zien, dan wil ze dit ook gemakkelijk kunnen vinden.
+
+- Hoe gaat Larissa haar doel bereiken? 
+Larissa maakt gebruik van een screen reader. Hiermee zal ze dus de informatie in het schema moeten vinden dat ze nodig heeft.
+
+- Waarom komt Larissa op mijn site en niet op een ander? 
+Larissa komt op mijn site, omdat ik het voor haar makkelijk maak om haar planning voor een specifieke dag in te zien en haar makkelijk de informatie laat vinden die ze zoekt. Verder maak ik het voor haar makkelijker om haar notities van een training terug te vinden, omdat ik haar deze laat plaatsen bij de dag dat ze de training heeft gedaan.
 
 ## Reflectie
 
