@@ -86,6 +86,7 @@ Wat voor persoon is Larissa? (Zodat je de interface daarop kunt aanpassen)
 ### Add nonsense
 
 - Als Larissa een bespreking heeft met haar coach, haar vertellen dat ze deze niet mag skippen en hierbij screen reader soort van laten lachen.
+- Woorden toevoegen die de screen reader grappig voorleest.
 
 ## Assignment
 
