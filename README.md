@@ -109,16 +109,16 @@ Wat voor persoon is Larissa? (Zodat je de interface daarop kunt aanpassen)
 User scenarios describe in detail what users do on a website and specifically why they do it. A user scenario is like a short story of a person who visits a website witha certain motivation and a specific goal in mind. A good user scenario includes all information that is relevant to the process the user undergoes in order to reach his or her goal, and nothing more.
 
 - Wie is Larissa? 
-Larissa is een energiek en redelijk chaotisch persoon. Ze ziet nog maar 1%. Ondanks dat ze zo weinig ziet, is ze erg zelfstandig. Tevens is ze een topsportster en doet ze aan baanwielrennen, waarmee ze ook een gouden medaille op de Olympische Spelen heeft gewonnen.
+  Larissa is een energiek en redelijk chaotisch persoon. Ze ziet nog maar 1%. Ondanks dat ze zo weinig ziet, is ze erg zelfstandig. Tevens is ze een topsportster en doet ze aan baanwielrennen, waarmee ze ook een gouden medaille op de Olympische Spelen heeft gewonnen.
 
 - Wat wil Larissa bereiken op mijn site? 
-Larissa wil haar trainingsschema goed kunnen inzien. Hierbij is het belangrijk dat ze de planning van vandaag heel snel ziet, omdat dat vaak is wat ze op gaat zoeken. Wil ze toch van een andere dag de planning zien, dan wil ze dit ook gemakkelijk kunnen vinden.
+  Larissa wil haar trainingsschema goed kunnen inzien. Hierbij is het belangrijk dat ze de planning van vandaag heel snel ziet, omdat dat vaak is wat ze op gaat zoeken. Wil ze toch van een andere dag de planning zien, dan wil ze dit ook gemakkelijk kunnen vinden.
 
 - Hoe gaat Larissa haar doel bereiken? 
-Larissa maakt gebruik van een screen reader. Hiermee zal ze dus de informatie in het schema moeten vinden dat ze nodig heeft.
+  Larissa maakt gebruik van een screen reader. Hiermee zal ze dus de informatie in het schema moeten vinden dat ze nodig heeft.
 
 - Waarom komt Larissa op mijn site en niet op een ander? 
-Larissa komt op mijn site, omdat ik het voor haar makkelijk maak om haar planning voor een specifieke dag in te zien en haar makkelijk de informatie laat vinden die ze zoekt. Verder maak ik het voor haar makkelijker om haar notities van een training terug te vinden, omdat ik haar deze laat plaatsen bij de dag dat ze de training heeft gedaan.
+  Larissa komt op mijn site, omdat ik het voor haar makkelijk maak om haar planning voor een specifieke dag in te zien en haar makkelijk de informatie laat vinden die ze zoekt. Verder maak ik het voor haar makkelijker om haar notities van een training terug te vinden, omdat ik haar deze laat plaatsen bij de dag dat ze de training heeft gedaan.
 
 ## Reflectie
 
