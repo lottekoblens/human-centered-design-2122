@@ -7,6 +7,11 @@
   - [Live demo](#live-demo)
   - [Test 1](#test-1)
   - [Test 2](#test-2)
+  - [Design Principles](#design-principles)
+    - [Study situation](#study-situation)
+    - [Ignore conventions](#ignore-conventions)
+    - [Prioritise identity](#prioritise-identity)
+    - [Add nonsense](#add-nonsense)
   - [Assignment](#assignment)
     - [Ontwerpen met en voor echte mensen](#ontwerpen-met-en-voor-echte-mensen)
     - [Leerdoelen](#leerdoelen)
@@ -53,6 +58,34 @@ Test twee is goed gegaan. Ik heb Larissa gewoon door het schema heen laten gaan 
 - Voor de volgende dag bekijkt ze waar en hoe laat ze ergens moet zijn. (dus ik kan haar bijvoorbeeld laten beginnen op de dag van vandaag)
 - Op de dag pagina kloppen de headings nog niet helemaal
 - Bij textarea nog een label toevoegen
+
+
+## Design Principles
+
+### Study situation
+Hoe gebruikt Larissa haar laptop? Wat zijn haar settings? Welke toetsen gebruikt ze zelf veel? Dat zijn de vragen die ik in mijn hoofd heb gehouden tijdens het maken van het trainingsschema en tijdens het testen.
+
+- Larissa gebruikt een screen reader (JAWS). Hierbij gebruikt ze het liefst de tab-toets en daarbij ook wel de H en I-toetsen om de kijken welke koppen en lijsten er op de pagina zijn. 
+- Om terug te gaan naar de homepagina van de website, voert ze meestal de link van de website opnieuw in in de URL-balk. Ze gaat niet in de navigatie op zoek naar een knop waarmee ze weer terug gaat naar de homepagina.
+- Als Larissa ergens niet uitkomt, gebruikt ze soms de window zoom functie om op deze manier af en toe toch nog dingen stiekem te kunnen lezen. Daarbij is het dus handig als het lettertype op een pagina al groter is zodat ze minder hoeft in te zoomen.
+- Schema van vandaag wil ze het snelst zien.
+
+### Ignore conventions
+Zijn conventions/patterns voor Larissa handig? Welke niet, dus welke kun je beter veranderen?
+
+- Als Larissa op een specifieke pagina zit waar ze naartoe is genavigeerd dan wil ze dan gelijk de content zien en niet eerst weer door de navigatie heen moeten gaan. Daarom zou het een goed idee zijn om bijvoorbeeld op de pagina van een dag de navigatie onderaan de pagina te plaatsen in plaats van bovenaan (hoe het normaal gesproken is).
+
+### Prioritise identity
+Wat voor persoon is Larissa? (Zodat je de interface daarop kunt aanpassen)
+
+- Larissa is zelf een best wel druk persoon, ze is erg zelfstandig en is een topsportster en ze kan nog maar 1% zien.
+- Ze plant niet enorm ver vooruit, dus ze plant nog niet wat voor training ze over 3 maanden gaat doen. Ze kijkt op het moment zelf wat haar lichaam nodig heeft en past daar haar trainingen op aan. 
+- Ze vindt oranje en goud mooie kleuren.
+- Ondanks dat ze nog maar 1% ziet, ziet Larissa nog wel contouren. Daarbij gebruikt ze als ze ergens soms niet uitkomt de window zoom functie om op deze manier af en toe toch nog dingen stiekem te kunnen lezen. Daarbij is het dus handig als het lettertype op een pagina al groter is.
+
+### Add nonsense
+
+- Als Larissa een bespreking heeft met haar coach, haar vertellen dat ze deze niet mag skippen en hierbij screen reader soort van laten lachen.
 
 ## Assignment
 
