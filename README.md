@@ -7,6 +7,7 @@
   - [Live demo](#live-demo)
   - [Test 1](#test-1)
   - [Test 2](#test-2)
+    - [Aanpak na test 2](#aanpak-na-test-2)
   - [Design Principles](#design-principles)
     - [Study situation](#study-situation)
     - [Ignore conventions](#ignore-conventions)
@@ -60,6 +61,13 @@ Test twee is goed gegaan. Ik heb Larissa gewoon door het schema heen laten gaan 
 - Voor de volgende dag bekijkt ze waar en hoe laat ze ergens moet zijn. (dus ik kan haar bijvoorbeeld laten beginnen op de dag van vandaag)
 - Op de dag pagina kloppen de headings nog niet helemaal
 - Bij textarea nog een label toevoegen
+
+### Aanpak na test 2
+
+Ik ga Larissa laten beginnen in het schema op vandaag, omdat dat hetgeen is waar ze het schema het meeste voor gebruikt. Vanuit daar laat ik haar zien hoe laat ze welke dingen heeft op die dag en ik geef haar de optie om notities bij die dag toe te voegen.
+En verder geef ik haar vanuit daar de optie om naar een andere dag te zoeken of naar het maandoverzicht te gaan. 
+
+Ook ben ik van plan om nu nog nonsense toe te gaan voegen. Ik wil daarom wat woorden toevoegen die grappig worden uitgesproken door de screen reader. Verder ben ik van plan om nog goed te gaan kijken naar de design principles en dat toe te passen in het prototype.
 
 
 ## Design Principles
