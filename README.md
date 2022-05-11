@@ -74,7 +74,9 @@ Ook ben ik van plan om nu nog nonsense toe te gaan voegen. Ik wil daarom wat woo
 
 ## Test 3
 
-Dit was de laatste test die ik kon doen. 
+Dit was de laatste test die ik kon doen en Larissa had hierbij nog maar weinig feedback. Ze was erg tevreden met wat ik had gemaakt en moest lachen om de tekst die ik bij de bespreking met coach had toegevoegd. Dit was ook wat ik met deze nonsense die ik had toegevoegd wilde bereiken. Verder wilde Larissa bij het maandoverzicht alleen nog een knop hebben waarmee ze weer terug kon komen naar de dag van vandaag. 
+
+De knop van vandaag zal ik dan ook nog toevoegen aan het maandoverzicht.
 
 ## Design Principles
 
