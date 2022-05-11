@@ -128,6 +128,8 @@ User scenarios describe in detail what users do on a website and specifically wh
 
 ## Reflectie
 
+Wat ik zelf nog zou willen toevoegen zijn meer uitgebreide beschrijvingen bij de trainingen. Ik heb er nu alleen neergezet wat voor afspraken en trainingen Larissa heeft, maar bijvoorbeeld niet waar de afspraak plaatsvindt en wat ze moet doen in de trainingen.
+
 ## Assignment
 
 ### Ontwerpen met en voor echte mensen
