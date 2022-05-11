@@ -22,7 +22,6 @@
   - [Rubric](#rubric)
   - [Features](#features)
   - [Installation](#installation)
-  - [Wishlist](#wishlist)
   - [License](#license)
 
 ## Concept
@@ -74,9 +73,7 @@ Ook ben ik van plan om nu nog nonsense toe te gaan voegen. Ik wil daarom wat woo
 
 ## Test 3
 
-Dit was de laatste test die ik kon doen en Larissa had hierbij nog maar weinig feedback. Ze was erg tevreden met wat ik had gemaakt en moest lachen om de tekst die ik bij de bespreking met coach had toegevoegd. Dit was ook wat ik met deze nonsense die ik had toegevoegd wilde bereiken. Verder wilde Larissa bij het maandoverzicht alleen nog een knop hebben waarmee ze weer terug kon komen naar de dag van vandaag. 
-
-De knop van vandaag zal ik dan ook nog toevoegen aan het maandoverzicht.
+Dit was de laatste test die ik kon doen en Larissa had hierbij nog maar weinig feedback. Ze was erg tevreden met wat ik had gemaakt en moest lachen om de tekst die ik bij de bespreking met coach had toegevoegd. Dit was ook wat ik met deze nonsense die ik had toegevoegd wilde bereiken. Larissa vond het nu ook erg fijn dat ze gelijk de planning van vandaag te zien kreeg en vanuit daar kon navigeren naar andere dagen. Overigens wilde Larissa bij het maandoverzicht alleen nog een knop hebben waarmee ze weer terug kon komen naar de dag van vandaag. Deze knop zal ik dan ook nog toevoegen aan het maandoverzicht.
 
 ## Design Principles
 
@@ -180,8 +177,6 @@ De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen
 
 `npm start`
 
-## Wishlist
-
 ## License
 
-[MIT]()
+[MIT](https://github.com/lottekoblens/human-centered-design-2122/blob/main/LICENSE)
