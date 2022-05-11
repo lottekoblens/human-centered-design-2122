@@ -1,4 +1,14 @@
 const form = document.getElementById('trainingInput');
+const result = document.getElementById('result');
+const buttons = document.getElementsByClassName('button')
+
+
+for (let i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener("click", () => {
+        console.log('test')
+        buttons[i].classList.add('explode')
+    });
+}
 
 form.addEventListener('submit', (e) => {
     e.preventDefault()
@@ -7,5 +17,7 @@ form.addEventListener('submit', (e) => {
 
 const saveFormInput = () => {
     let input = document.getElementById("input").value;
-    document.getElementById('result').textContent = 'Notities van training: ' + input;
+    result.classList.remove('hidden')
+    result.textContent = 'Notities van vandaag: ' + input;
+    result.focus()
 }

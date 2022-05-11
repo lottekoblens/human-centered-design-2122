@@ -7,8 +7,16 @@ app.use(express.static('public'));
 app.set('view engine', 'ejs');
 
 app.get('/', (req, res) => {
-    res.render('home');
+    res.render('dag');
 });
+
+app.get('/13mei', (req, res) => {
+    res.render('13mei');
+})
+
+app.get('/mei', (req, res) => {
+    res.render('mei');
+})
 
 app.get('/juni', (req, res) => {
     res.render('juni');
