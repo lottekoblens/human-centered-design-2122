@@ -28,7 +28,7 @@
 
 Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Larissa is een topsportster in het baanwielrenner en Larissa ziet nog maar 1%. In haar huidige trainingsschema kan Larissa de informatie die ze nodig heeft niet vinden, omdat het heel ingewikkeld in elkaar zit en omdat er kleuren worden gebruikt voor bepaalde dingen die Larissa natuurlijk niet kan zien. Dit ben ik gaan verbeteren. Ik ben het trainingsschema goed bruikbaar gaan maken voor Larissa, door ervoor te zorgen dat zij met de screen reader en gemakkelijk doorheen kan navigeren. Hiervoor maak ik bijvoorbeeld gebruik van tabindex en zorg ik ervoor dat Larissa als eerst de planning van vandaag zien aangezien dat hetgeen is waar ze het trainingsschema het meest voor gebruikt.
 
-<img src="/public/images/concept.png" width="650">
+<img src="/public/images/trainingsschema.gif" width="650">
 
 ## Live demo
 
