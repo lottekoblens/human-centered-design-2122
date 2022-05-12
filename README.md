@@ -163,7 +163,7 @@ Bij de derde test begint het schema met de planning van vandaag (omdat Larissa a
 
 **Aanbevelingen:**
 
-Wat ik zelf nog zou willen toevoegen zijn meer uitgebreide beschrijvingen bij de trainingen. Ik heb er nu alleen neergezet wat voor afspraken en trainingen Larissa heeft, maar bijvoorbeeld niet waar de afspraak plaatsvindt en wat ze moet doen in de trainingen.
+Wat ik zelf nog zou willen toevoegen zijn meer uitgebreide beschrijvingen bij de trainingen. Ik heb er nu alleen neergezet wat voor afspraken en trainingen Larissa heeft, maar bijvoorbeeld niet waar de afspraak plaatsvindt en wat ze moet doen in de trainingen. En verder zou het nog goed zijn om de wedstrijden e.d. toe te voegen aan het schema.
 
 ## Assignment
 
