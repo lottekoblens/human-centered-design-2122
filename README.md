@@ -38,14 +38,14 @@ Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Lar
 
 De eerste test was eigenlijk grotendeels een kennismaking met Larissa. Ik ben veel over haar te weten gekomen en bepaalde voorkeuren van haar wat ze fijn zou vinden voor het trainingsschema zijn goed aan het licht gekomen.
 
-- Braille bord (leesregel) gebruikt ze bijna nooit
+- Braille bord (leesregel) gebruikt ze bijna nooit.
 - Ze wil niet al 3 maanden verder hebben dat gepland staat wanneer ze krachttraining heeft e.d. Ze voelt zelf aan wat haar lichaam nodig heeft en daar gaat ze dan ook op trainen.
-- Ze wil snel de info die ze nodig heeft kunnen vinden (ook tijdens een training wat er in die training gedaan moet worden)
-- Ze gebruikt graag de tab-toets
-- Ze vindt het fijn om te weten wanneer ze vrij is
-- Screen reader in het Nederlands
-- H-toets om te kijken hoeveel en welke headers er zijn, i-toets voor de lijsten
-- Ze wilt makkelijk kunnen navigeren
+- Ze wil snel de info die ze nodig heeft kunnen vinden (ook tijdens een training wat er in die training gedaan moet worden).
+- Ze gebruikt graag de tab-toets.
+- Ze vindt het fijn om te weten wanneer ze vrij is.
+- Screen reader in het Nederlands.
+- H-toets om te kijken hoeveel en welke headers er zijn, i-toets voor de lijsten.
+- Ze wilt makkelijk kunnen navigeren.
 - Ze houdt tevens zelf haar voortgang van de trainingen bij in haar notities. Dit is een leuk onderdeel wat ik zou kunnen verwerken in het schema, zodat zij per training overzichtelijk kan bijhouden wat ze heeft gedaan.
 
 **Aanpak na test 1**
@@ -56,13 +56,13 @@ Ik ga nu aan de slag met het maken van het trainingsschema. Ik laat Larissa begi
 
 Test twee is goed gegaan. Ik heb Larissa gewoon door het schema heen laten gaan zonder dat ik er iets bij vertelde. Ik heb haar het schema zelf laten ontdekken, zoals ze dat normaal ook zou doen met een website. Wat heel erg fijn was, is dat Larissa eigenlijk uit zichzelf volledig hardop denkt. Hierdoor krijg je goede feedback terug en weet je wat in haar gedachten om gaat bij het gebruik van het schema. De volgende punten kan ik nog verbeteren:
 
-- Voeg een zoekfunctie toe om naar een specifieke dag te gaan: Een maand invullen en dan een week kiezen
-- Je kan eventueel een optie toevoegen om een maand/jaar te kiezen
-- Als je van een dag terug gaat naar het maandoverzicht dat je focus dan nog op de dag zit waar je net bent geweest
+- Voeg een zoekfunctie toe om naar een specifieke dag te gaan: Een maand invullen en dan een week kiezen.
+- Je kan eventueel een optie toevoegen om een maand/jaar te kiezen.
+- Als je van een dag terug gaat naar het maandoverzicht dat je focus dan nog op de dag zit waar je net bent geweest.
 - Vandaag en morgen zijn eigenlijk het belangrijkst. Wat ze tijdens een training moet doen, bekijkt ze alleen op de dag zelf.
-- Voor de volgende dag bekijkt ze waar en hoe laat ze ergens moet zijn. (dus ik kan haar bijvoorbeeld laten beginnen op de dag van vandaag)
-- Op de dag pagina kloppen de headings nog niet helemaal
-- Bij textarea nog een label toevoegen
+- Voor de volgende dag bekijkt ze waar en hoe laat ze ergens moet zijn. (dus ik kan haar bijvoorbeeld laten beginnen op de dag van vandaag).
+- Op de dag pagina kloppen de headings nog niet helemaal.
+- Bij textarea nog een label toevoegen.
 
 ### Aanpak na test 2
 
