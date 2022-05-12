@@ -125,6 +125,16 @@ User scenarios describe in detail what users do on a website and specifically wh
 
 ## Reflectie
 
+**Het testen:**
+
+Het testen ging over het algemeen vrij goed. Dit kwam mede doordat Larissa uit zichzelf al vertelde wat ze dacht als ze bezig was met het testen. Dit was voor mij erg handig en daar kon ik ook veel verbeterpunten uithalen. Bij de eerste test had ik alleen nog weinig om te testen (alleen een tabel) en daarom heb ik die test vooral gebruikt om Larissa te leren kennen. Ook merkte ik wel dat ik al teveel had gezegd voordat Larissa begon met testen. Ik had namelijk al gezegd dat ik een tabel had gemaakt, maar voor het testen kan je dat beter nog niet zeggen en kan je de gebruiker dat beter zelf laten ontdekken.
+
+In de volgende testen ben ik er dan ook goed op gaan letten dat ik niks voor zei. Ik heb bij de laatste twee testen Larissa het trainingsschema zelf laten ontdekken. Hierdoor kan je beter ontdekken waar Larissa vastloopt en daar kan je dan wel over vragen wat zij een betere manier zou vinden, zodat je dat weer kan toevoegen. 
+
+**Het prototype:**
+
+Tussen de testen zijn er veel aanpassingen geweest. Bij de eerste test bestond het trainingsschema alleen nog uit een tabel.
+
 Wat ik zelf nog zou willen toevoegen zijn meer uitgebreide beschrijvingen bij de trainingen. Ik heb er nu alleen neergezet wat voor afspraken en trainingen Larissa heeft, maar bijvoorbeeld niet waar de afspraak plaatsvindt en wat ze moet doen in de trainingen.
 
 ## Assignment
