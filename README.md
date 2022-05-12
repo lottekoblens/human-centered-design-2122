@@ -131,6 +131,14 @@ Het testen ging over het algemeen vrij goed. Dit kwam mede doordat Larissa uit z
 
 In de volgende testen ben ik er dan ook goed op gaan letten dat ik niks voor zei. Ik heb bij de laatste twee testen Larissa het trainingsschema zelf laten ontdekken. Hierdoor kan je beter ontdekken waar Larissa vastloopt en daar kan je dan wel over vragen wat zij een betere manier zou vinden, zodat je dat weer kan toevoegen. 
 
+*Do's tijdens het testen:*
+- Laat de testpersoon het prototype zelf ontdekken
+- Als de testpersoon een vraag stelt over hoe hij/zij iets moet doen, antwoord dan met een vraag bijvoorbeeld: 'Hoe denk je dat je daar kan komen of dat doel kan bereiken?'
+- Vraag de testpersoon om hardop te denken
+
+*Dont's tijdens het testen:*
+- Je moet niet voorzeggen hoe de testpersoon iets kan doen/bereiken
+
 **Het prototype:**
 
 Tussen de testen zijn er veel aanpassingen geweest. Bij de eerste test bestond het trainingsschema alleen nog uit een tabel.
