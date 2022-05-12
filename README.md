@@ -88,10 +88,10 @@ Hoe gebruikt Larissa haar laptop? Wat zijn haar settings? Welke toetsen gebruikt
 ### Ignore conventions
 Zijn conventions/patterns voor Larissa handig? Welke niet, dus welke kun je beter veranderen?
 
-- Als Larissa op een specifieke pagina zit waar ze naartoe is genavigeerd dan wil ze dan gelijk de content zien en niet eerst weer door de navigatie heen moeten gaan. Daarom zou het een goed idee zijn om bijvoorbeeld op de pagina van een dag de navigatie onderaan de pagina te plaatsen in plaats van bovenaan (hoe het normaal gesproken is).
+- Als Larissa op een specifieke pagina zit waar ze naartoe is genavigeerd dan wil ze dan gelijk de content zien en niet eerst weer door de navigatie heen moeten gaan. Daarom is het voor haar beter om op de pagina van een dag de navigatie onderaan de pagina te plaatsen in plaats van bovenaan (hoe het normaal gesproken is).
 
 ### Prioritise identity
-Wat voor persoon is Larissa? (Zodat je de interface daarop kunt aanpassen)
+Wat voor persoon is Larissa?
 
 - Larissa is zelf een best wel druk persoon, ze is erg zelfstandig en is een topsportster en ze kan nog maar 1% zien.
 - Ze plant niet enorm ver vooruit, dus ze plant nog niet wat voor training ze over 3 maanden gaat doen. Ze kijkt op het moment zelf wat haar lichaam nodig heeft en past daar haar trainingen op aan. 
