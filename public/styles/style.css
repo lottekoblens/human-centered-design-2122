@@ -76,7 +76,8 @@ ul li a {
 ul li:focus-within,
 ul.dagschema li:focus,
 textarea:focus,
-#zoek:focus {
+#zoek:focus,
+#back-day:focus {
     background: rgb(55, 114, 207);
 }
 
@@ -103,7 +104,8 @@ a:focus {
     background: rgb(55, 114, 207);
 }
 
-#zoek {
+#zoek,
+#back-day {
     background: orange;
     color: black;
     padding: 0.7em;
