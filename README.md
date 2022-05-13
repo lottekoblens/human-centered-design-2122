@@ -94,6 +94,8 @@ Om ervoor te zorgen dat Larissa met de screen reader gemakkelijk door het traini
 Zijn conventions/patterns voor Larissa handig? Welke niet, dus welke kun je beter veranderen?
 
 - Als Larissa op een specifieke pagina zit waar ze naartoe is genavigeerd dan wil ze dan gelijk de content zien en niet eerst weer door de navigatie heen moeten gaan. Daarom is het voor haar beter om op de pagina van een dag de navigatie onderaan de pagina te plaatsen in plaats van bovenaan (hoe het normaal gesproken is).
+- Tekst is groter dan normaal.
+- Elementen zijn groter en staan verder uit elkaar dan normaal.
 
 **Toepassing:**
 
