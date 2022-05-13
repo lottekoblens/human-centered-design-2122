@@ -167,6 +167,7 @@ Tussen de testen zijn er aanpassingen aan het prototype gedaan. Bij de eerste te
 Bij de tweede test had ik een maandoverzicht gemaakt waar vandaan Larissa naar een dag kan gaan om daar te zien wat voor training ze heeft.
 
 <img src="/public/images/home.png" width="650">
+<img src="/public/images/dag.png" width="650">
 
 Bij de derde test begint het schema met de planning van vandaag (omdat Larissa aangaf dat ze daar het schema meestal voor gebruikt). Ik geef hierbij ook de tijden weer van de afspraken/trainingen die ze op die dag heeft. Vanuit de dag heb ik nog een zoekoptie om snel naar een andere dag te navigeren toegevoegd en een knop om weer terug naar het maandoverzicht te komen. Per dag kan Larissa ook nog bijhouden wat ze tijdens haar trainingen heeft gedaan. Dit wordt dan opgeslagen bij die dag, zodat Larissa dat later weer gemakkelijk terug kan vinden.
 
