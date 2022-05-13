@@ -28,7 +28,7 @@
 
 Deze applicatie is een trainingsschema die speciaal gemaakt is voor Larissa. Larissa is een topsportster in het baanwielrenner en Larissa ziet nog maar 1%. In haar huidige trainingsschema kan Larissa de informatie die ze nodig heeft niet vinden, omdat het heel ingewikkeld in elkaar zit en omdat er kleuren worden gebruikt voor bepaalde dingen die Larissa natuurlijk niet kan zien. Dit ben ik gaan verbeteren. Ik ben het trainingsschema goed bruikbaar gaan maken voor Larissa, door ervoor te zorgen dat zij met de screen reader en gemakkelijk doorheen kan navigeren. Hiervoor maak ik bijvoorbeeld gebruik van tabindex en zorg ik ervoor dat Larissa als eerst de planning van vandaag zien aangezien dat hetgeen is waar ze het trainingsschema het meest voor gebruikt.
 
-<img src="/public/images/trainingsschema.gif" width="650">
+<img src="/public/images/video.gif" width="650">
 
 ## Live demo
 
@@ -151,9 +151,12 @@ In de volgende testen ben ik er dan ook goed op gaan letten dat ik niks voor zei
 - Laat de testpersoon het prototype zelf ontdekken.
 - Als de testpersoon een vraag stelt over hoe hij/zij iets moet doen, antwoord dan met een vraag bijvoorbeeld: 'Hoe denk je dat je daar kan komen of dat doel kan bereiken?'
 - Vraag de testpersoon om hardop te denken.
+- Notities maken.
 
 *Dont's tijdens het testen:*
 - Je moet niet voorzeggen hoe de testpersoon iets kan doen/bereiken.
+- Onderdelen weglaten uit je test omdat het nog niet 'af' is.
+- Alles wat er gezegd wordt proberen te onthouden.
 
 **Het prototype:**
 
@@ -167,7 +170,7 @@ Bij de tweede test had ik een maandoverzicht gemaakt waar vandaan Larissa naar e
 
 Bij de derde test begint het schema met de planning van vandaag (omdat Larissa aangaf dat ze daar het schema meestal voor gebruikt). Ik geef hierbij ook de tijden weer van de afspraken/trainingen die ze op die dag heeft. Vanuit de dag heb ik nog een zoekoptie om snel naar een andere dag te navigeren toegevoegd en een knop om weer terug naar het maandoverzicht te komen. Per dag kan Larissa ook nog bijhouden wat ze tijdens haar trainingen heeft gedaan. Dit wordt dan opgeslagen bij die dag, zodat Larissa dat later weer gemakkelijk terug kan vinden.
 
-<img src="/public/images/trainingsschema.gif" width="650">
+<img src="/public/images/video.gif" width="650">
 
 **Aanbevelingen:**
 

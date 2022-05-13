@@ -96,7 +96,7 @@ a:focus {
 
 #maand {
     padding: 1em;
-    background: orange;
+    background: #FA682F;
     color: black;
 }
 
@@ -106,7 +106,7 @@ a:focus {
 
 #zoek,
 #back-day {
-    background: orange;
+    background: #FA682F;
     color: black;
     padding: 0.7em;
 }
@@ -117,7 +117,7 @@ a:focus {
 }
 
 ul.dagschema li {
-    background: orange;
+    background: #FA682F;
     color: black;
 }
 
@@ -130,7 +130,7 @@ form {
 form>button {
     padding: 1em;
     border: none;
-    background: orange;
+    background: #FA682F;
     color: black;
     font-size: 1em;
     max-width: 30vw;
